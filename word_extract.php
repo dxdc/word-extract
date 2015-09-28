@@ -6,7 +6,7 @@
  *              to JPG format.
  *
  * Usage: php word_extract.php <filename.docx>
- * Requires Imagick for BMP and TIFF conversion to JPG
+ * Requires ImageMagick for BMP and TIFF conversion to JPG
  *
  * Version: 1.0
  * Author: Daniel Caspi
